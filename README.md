@@ -61,7 +61,7 @@ To test locally:
    ```bash
    # Python
    python -m http.server 8000
-   
+
    # Node.js
    npx http-server
    ```
